@@ -1,0 +1,5 @@
+<view>
+  <text class="presentation">This is text2ImageGen Page, context is {{buttonVal}} 
+  & {{inputVal}} & {{promptVal}} & {{negativePromptVal}}. AI努力生成中, 请耐心等待一会儿~
+  </text>
+</view>
